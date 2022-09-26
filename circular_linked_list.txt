@@ -1,0 +1,12 @@
+Q1. While traversing a single-circular linked list, which condition establishes that the traversing element/variable has reached the first element?
+Ans1) While traversing a single-circular linked list, if the traversing variable is initialized to the head pointer, when next pointer of the traversing variable becomes equal to the head, then the traversing variable has reached the first element.
+
+Q2. What are the practical applications of a circular linked list? (Try to find applications in your respective fields)
+Ans2)
+
+PRACTICAL APPLICATIONS OF CIRCULAR LINKED LIST:
+1)Stacks and queues are implemented by using circular linked list.
+2) The browser cache which allows you to hit the BACK button. Circular linked list is used to store cache in browser, so that we can reload a visited page again by hitting BACK button.
+3) Multiplayer games employ circular lists to switch between players in loop. It determines who’s turn is it in the game of multi-players. All players are placed in a circular list linked. When a player has taken his turn, move towards the player next on the list.
+4) Circular Doubly Linked Lists are used for the implementation of advanced data structures like Fibonacci Heap
+5)In photoshop, word, or any paint we use this concept in undo function.
